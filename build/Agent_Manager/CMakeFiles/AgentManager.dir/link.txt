@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAgentManager.a CMakeFiles/AgentManager.dir/AgentManager_autogen/mocs_compilation.cpp.o CMakeFiles/AgentManager.dir/AgentManager.cpp.o CMakeFiles/AgentManager.dir/Agent.cpp.o
+/usr/bin/ranlib libAgentManager.a

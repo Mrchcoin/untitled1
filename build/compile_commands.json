@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/yoyo/Projects/untitled1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/yoyo/Projects/untitled1/build/untitled1_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -O2 -g -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/untitled1.dir/untitled1_autogen/mocs_compilation.cpp.o -c /home/yoyo/Projects/untitled1/build/untitled1_autogen/mocs_compilation.cpp",
+  "file": "/home/yoyo/Projects/untitled1/build/untitled1_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/yoyo/Projects/untitled1/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/yoyo/Projects/untitled1/build/untitled1_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -O2 -g -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/untitled1.dir/main.cpp.o -c /home/yoyo/Projects/untitled1/main.cpp",
+  "file": "/home/yoyo/Projects/untitled1/main.cpp"
+},
+{
+  "directory": "/home/yoyo/Projects/untitled1/build/Agent_Manager",
+  "command": "/usr/bin/g++ -DAGENTMANAGER_LIBRARY -DQT_CORE_LIB -DQT_NO_DEBUG -I/home/yoyo/Projects/untitled1/build/Agent_Manager/AgentManager_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -O2 -g -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/AgentManager.dir/AgentManager_autogen/mocs_compilation.cpp.o -c /home/yoyo/Projects/untitled1/build/Agent_Manager/AgentManager_autogen/mocs_compilation.cpp",
+  "file": "/home/yoyo/Projects/untitled1/build/Agent_Manager/AgentManager_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/yoyo/Projects/untitled1/build/Agent_Manager",
+  "command": "/usr/bin/g++ -DAGENTMANAGER_LIBRARY -DQT_CORE_LIB -DQT_NO_DEBUG -I/home/yoyo/Projects/untitled1/build/Agent_Manager/AgentManager_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -O2 -g -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/AgentManager.dir/AgentManager.cpp.o -c /home/yoyo/Projects/untitled1/Agent_Manager/AgentManager.cpp",
+  "file": "/home/yoyo/Projects/untitled1/Agent_Manager/AgentManager.cpp"
+},
+{
+  "directory": "/home/yoyo/Projects/untitled1/build/Agent_Manager",
+  "command": "/usr/bin/g++ -DAGENTMANAGER_LIBRARY -DQT_CORE_LIB -DQT_NO_DEBUG -I/home/yoyo/Projects/untitled1/build/Agent_Manager/AgentManager_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -O2 -g -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/AgentManager.dir/Agent.cpp.o -c /home/yoyo/Projects/untitled1/Agent_Manager/Agent.cpp",
+  "file": "/home/yoyo/Projects/untitled1/Agent_Manager/Agent.cpp"
+}
+]
