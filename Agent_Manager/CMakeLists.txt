@@ -1,4 +1,4 @@
-add_library(AgentManager STATIC
+add_library(AgentManager SHARED
   AgentManager.cpp
   AgentManager.h
   Agent.cpp

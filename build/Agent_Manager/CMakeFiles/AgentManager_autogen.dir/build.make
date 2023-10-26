@@ -68,7 +68,7 @@ include Agent_Manager/CMakeFiles/AgentManager_autogen.dir/progress.make
 
 Agent_Manager/CMakeFiles/AgentManager_autogen:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/yoyo/Projects/untitled1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target AgentManager"
-	cd /home/yoyo/Projects/untitled1/build/Agent_Manager && /usr/bin/cmake -E cmake_autogen /home/yoyo/Projects/untitled1/build/Agent_Manager/CMakeFiles/AgentManager_autogen.dir/AutogenInfo.json RelWithDebInfo
+	cd /home/yoyo/Projects/untitled1/build/Agent_Manager && /usr/bin/cmake -E cmake_autogen /home/yoyo/Projects/untitled1/build/Agent_Manager/CMakeFiles/AgentManager_autogen.dir/AutogenInfo.json Release
 
 AgentManager_autogen: Agent_Manager/CMakeFiles/AgentManager_autogen
 AgentManager_autogen: Agent_Manager/CMakeFiles/AgentManager_autogen.dir/build.make

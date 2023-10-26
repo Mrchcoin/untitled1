@@ -1,2 +1,1 @@
-/usr/bin/ar qc libAgentManager.a CMakeFiles/AgentManager.dir/AgentManager_autogen/mocs_compilation.cpp.o CMakeFiles/AgentManager.dir/AgentManager.cpp.o CMakeFiles/AgentManager.dir/Agent.cpp.o
-/usr/bin/ranlib libAgentManager.a
+/usr/bin/g++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,libAgentManager.so -o libAgentManager.so CMakeFiles/AgentManager.dir/AgentManager_autogen/mocs_compilation.cpp.o CMakeFiles/AgentManager.dir/AgentManager.cpp.o CMakeFiles/AgentManager.dir/Agent.cpp.o  /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.8 

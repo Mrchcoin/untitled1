@@ -8,8 +8,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/AgentManager.dir/AgentManager.cpp.o.d"
   "CMakeFiles/AgentManager.dir/AgentManager_autogen/mocs_compilation.cpp.o"
   "CMakeFiles/AgentManager.dir/AgentManager_autogen/mocs_compilation.cpp.o.d"
-  "libAgentManager.a"
   "libAgentManager.pdb"
+  "libAgentManager.so"
 )
 
 # Per-language clean rules from dependency scanning.

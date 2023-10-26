@@ -1,11 +1,11 @@
-/home/yoyo/Projects/untitled1/build/CMakeFiles/untitled1.dir
+/home/yoyo/Projects/untitled1/build/CMakeFiles/deltaclient.dir
 /home/yoyo/Projects/untitled1/build/CMakeFiles/edit_cache.dir
 /home/yoyo/Projects/untitled1/build/CMakeFiles/rebuild_cache.dir
 /home/yoyo/Projects/untitled1/build/CMakeFiles/list_install_components.dir
 /home/yoyo/Projects/untitled1/build/CMakeFiles/install.dir
 /home/yoyo/Projects/untitled1/build/CMakeFiles/install/local.dir
 /home/yoyo/Projects/untitled1/build/CMakeFiles/install/strip.dir
-/home/yoyo/Projects/untitled1/build/CMakeFiles/untitled1_autogen.dir
+/home/yoyo/Projects/untitled1/build/CMakeFiles/deltaclient_autogen.dir
 /home/yoyo/Projects/untitled1/build/Agent_Manager/CMakeFiles/AgentManager.dir
 /home/yoyo/Projects/untitled1/build/Agent_Manager/CMakeFiles/edit_cache.dir
 /home/yoyo/Projects/untitled1/build/Agent_Manager/CMakeFiles/rebuild_cache.dir

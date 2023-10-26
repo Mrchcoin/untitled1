@@ -26,7 +26,13 @@
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/home/yoyo/Projects/untitled1/build/Agent_Manager/AgentManager_autogen/include",
 	"MOC_COMPILATION_FILE" : "/home/yoyo/Projects/untitled1/build/Agent_Manager/AgentManager_autogen/mocs_compilation.cpp",
-	"MOC_DEFINITIONS" : [ "AGENTMANAGER_LIBRARY", "QT_CORE_LIB", "QT_NO_DEBUG" ],
+	"MOC_DEFINITIONS" : 
+	[
+		"AGENTMANAGER_LIBRARY",
+		"AgentManager_EXPORTS",
+		"QT_CORE_LIB",
+		"QT_NO_DEBUG"
+	],
 	"MOC_DEPEND_FILTERS" : 
 	[
 		[
